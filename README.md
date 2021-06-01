@@ -1,4 +1,4 @@
-# photogalary
+# photogallery
 
 # Description
 A photo gallery template made using HTML , CSS and Java
