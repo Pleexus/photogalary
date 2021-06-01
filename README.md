@@ -4,7 +4,7 @@
 A photo gallery template made using HTML , CSS and Java
 
 
-#Author
+# Author
 
 Prajwal Bisht
 
